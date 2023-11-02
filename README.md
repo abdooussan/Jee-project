@@ -36,8 +36,7 @@ After deployment, open your web browser and navigate to the address of your web 
 ## Contributing
 We appreciate contributions that help enhance the platform. If you have feature suggestions, bug reports, or wish to improve the codebase, please feel free to fork the repository, submit pull requests, or open issues for discussion.
 
-## License
-This project is open source. Kindly refer to the [LICENSE](LICENSE) file for more details.
+
 
 
 
